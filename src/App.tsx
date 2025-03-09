@@ -9,23 +9,20 @@ function App() {
     <>
       <Navbar bg="dark" data-bs-theme="dark">
         <Container>
-          <Navbar.Brand href="#home">Navbar</Navbar.Brand>
-          <Nav className="me-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#features">Features</Nav.Link>
-            <Nav.Link href="#pricing">Pricing</Nav.Link>
-          </Nav>
+          <Navbar.Brand href="#home">Grupo Jalasoft</Navbar.Brand>
         </Container>
       </Navbar>
 
       <div className='contenido-grupo'>
-        <h3> Grupo YalaSoft </h3>
 
         <div>
           <ListGroup as="ol" numbered>
-            <ListGroup.Item as="li">Cras justo odio</ListGroup.Item>
-            <ListGroup.Item as="li">Cras justo odio</ListGroup.Item>
-            <ListGroup.Item as="li">Cras justo odio</ListGroup.Item>
+            <ListGroup.Item as="li">Gualberto Choque Choque</ListGroup.Item>
+            <ListGroup.Item as="li">Rodrigo Flores Villarroel</ListGroup.Item>
+            <ListGroup.Item as="li">Leonel Julio Gongora Angles</ListGroup.Item>
+            <ListGroup.Item as="li">Sol Abril Marquez Diaz</ListGroup.Item>
+            <ListGroup.Item as="li">Neida Jessica Trujillo Delgadillo</ListGroup.Item>
+            <ListGroup.Item as="li">Brandon Alejandro Stambuk</ListGroup.Item>
           </ListGroup>
         </div>
 
