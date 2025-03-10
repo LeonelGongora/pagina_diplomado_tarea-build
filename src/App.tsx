@@ -8,7 +8,7 @@ function App() {
     <>
       <Navbar bg="dark" data-bs-theme="dark">
         <Container>
-          <Navbar.Brand href="#home" className="mx-auto">Grupo Yalasoftsd</Navbar.Brand>
+          <Navbar.Brand href="#home" className="mx-auto">Grupo Yalasoft</Navbar.Brand>
         </Container>
       </Navbar>
 
