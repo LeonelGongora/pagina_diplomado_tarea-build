@@ -8,11 +8,11 @@ function App() {
     <>
       <Navbar bg="dark" data-bs-theme="dark">
         <Container>
-          <Navbar.Brand href="#home">Grupo Jalasoft</Navbar.Brand>
+          <Navbar.Brand href="#home" className="mx-auto">Grupo Yalasoft</Navbar.Brand>
         </Container>
       </Navbar>
 
-      <div className='contenido-grupo'>
+      <div className="my-5 d-flex justify-content-center vh-100">
 
         <div>
           <ListGroup as="ol" numbered>
